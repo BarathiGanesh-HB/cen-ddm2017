@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+##  	Workshop on Data -Driven Modelling 2017
+
+4th of January to 10th of January 2018
+Centre for Excellence in Computational Engineering and Networking (CEN),
+Amrita Vishwa Vidyapeetham (Amrita University).
 
 You can use the [editor on GitHub](https://github.com/BarathiGanesh-HB/cen-ddm2017/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
