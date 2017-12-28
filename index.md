@@ -24,7 +24,7 @@ The primary target audience of the workshop is MTech/M.Sc students, research sch
     1. Fundamentals Linear Algebra and Optimization
     2. Introduction to Proper Orthogonal Mode Decomposition
     3. Introduction to Dynamic Mode Decomposition 
-    **4. Introduction to Koopman operator
+    4. Introduction to Koopman operator
     5. DMD and its Applications
 
 On 9th
