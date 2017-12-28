@@ -45,7 +45,7 @@ On 9th
 
 [Academics at CEN](http://nlp.amrita.edu/cenalumini/cen-alumini.html)
 
-[Check out the earlier workshops conducted by CEN](http://nlp.amrita.edu/workshop/workshops.html)
+[Check out the earlier workshops conducted by CEN](https://barathiganesh-hb.github.io/cen-workshops/)
 
 ### Books published from CEN on Signal processing and Machine learning
 
