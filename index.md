@@ -1,14 +1,11 @@
 ##  	Workshop on Data -Driven Modelling 2017
 
 4th of January to 10th of January 2018
-Centre for Excellence in Computational Engineering and Networking (CEN),
-Amrita Vishwa Vidyapeetham (Amrita University).
+Centre for Excellence in Computational Engineering and Networking ([CEN](https://www.amrita.edu/center/computational-engineering-and-networking)),
+Amrita Vishwa Vidyapeetham ([Amrita University](https://www.amrita.edu/)).
 
-You can use the [editor on GitHub](https://github.com/BarathiGanesh-HB/cen-ddm2017/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### About Data -Driven Modelling 2017
+Data-driven dynamical systems is a burgeoning field-it connects how measurements of nonlinear dynamical systems and/or complex systems can be used with well-established methods in dynamical system theory. This is a critically important new direction because the governing equations of many problems under consideration by practitioners in various scientific fields are not typically known. Thus, using data alone to help derive, in an optimal sense, the best dynamical system representation of a given application allows for important new insights. The recently developed dynamic mode decomposition ([DMD](http://bookstore.siam.org/ot149/)) is an innovative tool for integrating data with dynamical systems theory. The DMD has deep connections with traditional dynamical systems theory and many recent innovations in compressed sensing and machine learning. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
