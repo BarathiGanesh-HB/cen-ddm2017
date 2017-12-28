@@ -65,6 +65,4 @@ On 9th
 
     8. "Fractals for Everyone." [Online version](http://cen.amritafoss.org/downloads/) Manu Unni, Praveen Krishnan, Dr. K. P. Soman.
 
-![Image](https://github.com/BarathiGanesh-HB/cen-ddm2017/blob/master/books.png)
-
-![Books published from CEN](https://github.com/BarathiGanesh-HB/cen-ddm2017/blob/master/books.png){:class="img-responsive"}
+![Books published from CEN](https://github.com/BarathiGanesh-HB/cen-ddm2017/blob/master/books.png)
