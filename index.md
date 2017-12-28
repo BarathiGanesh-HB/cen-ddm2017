@@ -21,21 +21,21 @@ The primary target audience of the workshop is MTech/M.Sc students, research sch
 
 0n 8th
 
-    **Bold** 1. Fundamentals Linear Algebra and Optimization
-    **Bold** 2. Introduction to Proper Orthogonal Mode Decomposition
-    **Bold** 3. Introduction to Dynamic Mode Decomposition
-    **Bold** 4. Introduction to Koopman operator
-    **Bold** 5. DMD and its Applications
+    **1. Fundamentals Linear Algebra and Optimization** 
+    **2. Introduction to Proper Orthogonal Mode Decomposition** 
+    **3. Introduction to Dynamic Mode Decomposition** 
+    **4. Introduction to Koopman operator** 
+    **5. DMD and its Applications** 
 
 On 9th
 
-    **Bold** 1. Introduction to Non-linear Dynamics
-    **Bold** 2. Introduction to Fluid Dynamic Equations and Data Collection by Simulation
-    **Bold** 3. Nanofluidics
-    **Bold** 4. Data driven modelling : Onset & withdrawal of Indian Monsoon
-    **Bold** 5. Complex Networks
+    **1. Introduction to Non-linear Dynamics** 
+    **2. Introduction to Fluid Dynamic Equations and Data Collection by Simulation** 
+    ** 3. Nanofluidics**
+    **4. Data driven modelling : Onset & withdrawal of Indian Monsoon** 
+    **5. Complex Networks** 
 
-**Bold** Venue: CEN class room
+**Venue: CEN class room** 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
