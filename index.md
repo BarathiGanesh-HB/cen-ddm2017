@@ -1,7 +1,9 @@
 ##  	Workshop on Data -Driven Modelling 2017
 
-4th of January to 10th of January 2018
+8th of January to 9th of January 2018
+
 Centre for Excellence in Computational Engineering and Networking ([CEN](https://www.amrita.edu/center/computational-engineering-and-networking)),
+
 Amrita Vishwa Vidyapeetham ([Amrita University](https://www.amrita.edu/)).
 
 ### About Data -Driven Modelling 2017
