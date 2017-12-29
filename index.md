@@ -37,13 +37,13 @@ On 9th
 
 **Venue: CEN class room** 
 
-**Talk Title:** How to predict the upcoming spatially organized critical transition? [Abstract](https://github.com/BarathiGanesh-HB/cen-ddm2017/blob/master/Elena-Surovyatkina.docx)
+**Talk Title:** How to predict the upcoming spatially organized critical transition? [Abstract](https://github.com/BarathiGanesh-HB/cen-ddm2017/blob/master/Elena-Surovyatkina.docx?raw=true)
 
 **Speaker:** [Prof. Elena Surovyatkina](https://scholar.google.co.in/citations?user=0vZ07kMAAAAJ&hl=en&oi=ao) (Potsdam Institute for Climate Impact Research, Transdisciplinary Concepts&Methods, Potsdam, Germany; Space Research Institute of Russian Academy of Sciences, Space Dynamics and Data Analysis Department, Moscow, Russia)
 
 **Talk Title:** Will a transition to a low-carbon economy lead to the next financial crisis? [Abstract](https://github.com/BarathiGanesh-HB/cen-ddm2017/blob/master/Veronika-Stolbova.docx)
 
-**Speaker:** [Dr. Veronika Stolbova](https://scholar.google.co.in/citations?user=SxGh7U8AAAAJ&hl=en&oi=ao) (FINEXUS Center for Financial Networks and Sustainability Department of Banking and Finance, University of Zurich, Switzerland)
+**Speaker:** [Dr. Veronika Stolbova](https://scholar.google.co.in/citations?user=SxGh7U8AAAAJ&hl=en&oi=ao?raw=true) (FINEXUS Center for Financial Networks and Sustainability Department of Banking and Finance, University of Zurich, Switzerland)
 
 [Registration](https://docs.google.com/forms/d/1mR9yLTblLSYWb5zQX3XrQTUutZPkcArGYrMOuBYMe8E/viewform?edit_requested=true)
 
