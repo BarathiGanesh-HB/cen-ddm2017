@@ -11,7 +11,7 @@ The primary target audience of the workshop is MTech/M.Sc students, research sch
 
 ### Speakers
 1. [Prof. Elena Surovyatkina](https://scholar.google.co.in/citations?user=0vZ07kMAAAAJ&hl=en&oi=ao)
-2. [Veronika Stolbova](https://scholar.google.co.in/citations?user=SxGh7U8AAAAJ&hl=en&oi=ao) (University of Zurich)
+2. [Dr. Veronika Stolbova](https://scholar.google.co.in/citations?user=SxGh7U8AAAAJ&hl=en&oi=ao) (University of Zurich)
 3. [Prof. Soman KP](http://nlp.amrita.edu/somankp/)
 4. [Prof. EA Gopalakrishnan](https://www.amrita.edu/faculty/ea-gopalakrishnan)
 5. [Prof. Sarith P Sathian](https://sites.google.com/site/sarithshomepage/home)
@@ -36,6 +36,14 @@ On 9th
     5. Complex Networks
 
 **Venue: CEN class room** 
+
+**Talk Title:** How to predict the upcoming spatially organized critical transition? [Abstract](https://github.com/BarathiGanesh-HB/cen-ddm2017/blob/master/Elena-Surovyatkina.docx)
+
+**Speaker:** [Prof. Elena Surovyatkina](https://scholar.google.co.in/citations?user=0vZ07kMAAAAJ&hl=en&oi=ao) (Potsdam Institute for Climate Impact Research, Transdisciplinary Concepts&Methods, Potsdam, Germany; Space Research Institute of Russian Academy of Sciences, Space Dynamics and Data Analysis Department, Moscow, Russia)
+
+**Talk Title:** Will a transition to a low-carbon economy lead to the next financial crisis? [Abstract](https://github.com/BarathiGanesh-HB/cen-ddm2017/blob/master/Veronika-Stolbova.docx)
+
+**Speaker:** [Dr. Veronika Stolbova](https://scholar.google.co.in/citations?user=SxGh7U8AAAAJ&hl=en&oi=ao) (FINEXUS Center for Financial Networks and Sustainability Department of Banking and Finance, University of Zurich, Switzerland)
 
 [Registration](https://docs.google.com/forms/d/1mR9yLTblLSYWb5zQX3XrQTUutZPkcArGYrMOuBYMe8E/viewform?edit_requested=true)
 
