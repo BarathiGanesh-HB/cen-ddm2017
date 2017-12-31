@@ -23,17 +23,22 @@ The primary target audience of the workshop is MTech/M.Sc students, research sch
 
 0n 8th
 
+**Talk Title:** Will a transition to a low-carbon economy lead to the next financial crisis? [Abstract](https://github.com/BarathiGanesh-HB/cen-ddm2017/blob/master/Veronika-Stolbova.docx?raw=true)
+
+**Speaker:** [Dr. Veronika Stolbova](https://scholar.google.co.in/citations?user=SxGh7U8AAAAJ&hl=en&oi=ao) (FINEXUS Center for Financial Networks and Sustainability Department of Banking and Finance, University of Zurich, Switzerland)
+
     1. Fundamentals Linear Algebra and Optimization
     2. Introduction to Proper Orthogonal Mode Decomposition
     3. Introduction to Dynamic Mode Decomposition 
     4. Introduction to Koopman operator
     5. DMD and its Applications
-    
-**Talk Title:** Will a transition to a low-carbon economy lead to the next financial crisis? [Abstract](https://github.com/BarathiGanesh-HB/cen-ddm2017/blob/master/Veronika-Stolbova.docx?raw=true)
-
-**Speaker:** [Dr. Veronika Stolbova](https://scholar.google.co.in/citations?user=SxGh7U8AAAAJ&hl=en&oi=ao) (FINEXUS Center for Financial Networks and Sustainability Department of Banking and Finance, University of Zurich, Switzerland)
+   
 
 On 9th
+
+**Talk Title:** How to predict the upcoming spatially organized critical transition? [Abstract](https://github.com/BarathiGanesh-HB/cen-ddm2017/blob/master/Elena-Surovyatkina.docx?raw=true)
+
+**Speaker:** [Prof. Elena Surovyatkina](https://scholar.google.co.in/citations?user=0vZ07kMAAAAJ&hl=en&oi=ao) (Potsdam Institute for Climate Impact Research, Transdisciplinary Concepts&Methods, Potsdam, Germany; Space Research Institute of Russian Academy of Sciences, Space Dynamics and Data Analysis Department, Moscow, Russia)
 
     1. Introduction to Non-linear Dynamics
     2. Introduction to Fluid Dynamic Equations and Data Collection by Simulation
@@ -42,11 +47,6 @@ On 9th
     5. Complex Networks
 
 **Venue: CEN class room** 
-
-**Talk Title:** How to predict the upcoming spatially organized critical transition? [Abstract](https://github.com/BarathiGanesh-HB/cen-ddm2017/blob/master/Elena-Surovyatkina.docx?raw=true)
-
-**Speaker:** [Prof. Elena Surovyatkina](https://scholar.google.co.in/citations?user=0vZ07kMAAAAJ&hl=en&oi=ao) (Potsdam Institute for Climate Impact Research, Transdisciplinary Concepts&Methods, Potsdam, Germany; Space Research Institute of Russian Academy of Sciences, Space Dynamics and Data Analysis Department, Moscow, Russia)
-
 
 [Registration](https://docs.google.com/forms/d/1mR9yLTblLSYWb5zQX3XrQTUutZPkcArGYrMOuBYMe8E/viewform?edit_requested=true)
 
