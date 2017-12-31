@@ -12,7 +12,7 @@ Data-driven dynamical systems is a burgeoning field-it connects how measurements
 The primary target audience of the workshop is MTech/M.Sc students, research scholars and faculty. We hope to have an interactive session, with a free exchange of ideas, views and comments. Please fill all the required details during registration. For more queries, please contact **vinayakumarr77[at]gmail.com, barathiganesh.hb[at]gmail.com, harikrishnannb07[at]gmail.com**
 
 ### Speakers
-1. [Prof. Elena Surovyatkina](https://scholar.google.co.in/citations?user=0vZ07kMAAAAJ&hl=en&oi=ao)
+1. [Prof. Elena Surovyatkina](https://scholar.google.co.in/citations?user=0vZ07kMAAAAJ&hl=en&oi=ao) (Space Research Institute, Moscow)
 2. [Dr. Veronika Stolbova](https://scholar.google.co.in/citations?user=SxGh7U8AAAAJ&hl=en&oi=ao) (University of Zurich)
 3. [Prof. Soman KP](http://nlp.amrita.edu/somankp/)
 4. [Prof. EA Gopalakrishnan](https://www.amrita.edu/faculty/ea-gopalakrishnan)
@@ -28,6 +28,10 @@ The primary target audience of the workshop is MTech/M.Sc students, research sch
     3. Introduction to Dynamic Mode Decomposition 
     4. Introduction to Koopman operator
     5. DMD and its Applications
+    
+**Talk Title:** Will a transition to a low-carbon economy lead to the next financial crisis? [Abstract](https://github.com/BarathiGanesh-HB/cen-ddm2017/blob/master/Veronika-Stolbova.docx?raw=true)
+
+**Speaker:** [Dr. Veronika Stolbova](https://scholar.google.co.in/citations?user=SxGh7U8AAAAJ&hl=en&oi=ao) (FINEXUS Center for Financial Networks and Sustainability Department of Banking and Finance, University of Zurich, Switzerland)
 
 On 9th
 
@@ -42,11 +46,6 @@ On 9th
 **Talk Title:** How to predict the upcoming spatially organized critical transition? [Abstract](https://github.com/BarathiGanesh-HB/cen-ddm2017/blob/master/Elena-Surovyatkina.docx?raw=true)
 
 **Speaker:** [Prof. Elena Surovyatkina](https://scholar.google.co.in/citations?user=0vZ07kMAAAAJ&hl=en&oi=ao) (Potsdam Institute for Climate Impact Research, Transdisciplinary Concepts&Methods, Potsdam, Germany; Space Research Institute of Russian Academy of Sciences, Space Dynamics and Data Analysis Department, Moscow, Russia)
-
-**Talk Title:** Will a transition to a low-carbon economy lead to the next financial crisis? [Abstract](https://github.com/BarathiGanesh-HB/cen-ddm2017/blob/master/Veronika-Stolbova.docx?raw=true)
-
-**Speaker:** [Dr. Veronika Stolbova](https://scholar.google.co.in/citations?user=SxGh7U8AAAAJ&hl=en&oi=ao) (FINEXUS Center for Financial Networks and Sustainability Department of Banking and Finance, University of Zurich, Switzerland)
-
 
 
 [Registration](https://docs.google.com/forms/d/1mR9yLTblLSYWb5zQX3XrQTUutZPkcArGYrMOuBYMe8E/viewform?edit_requested=true)
