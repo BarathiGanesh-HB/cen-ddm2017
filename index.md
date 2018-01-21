@@ -18,6 +18,7 @@ The primary target audience of the workshop is MTech/M.Sc students, research sch
 4. [Prof. EA Gopalakrishnan](https://www.amrita.edu/faculty/ea-gopalakrishnan)
 5. [Prof. Sarith P Sathian](https://sites.google.com/site/sarithshomepage/home)
 6. [Prof. Sowmya V ](https://www.amrita.edu/faculty/v-sowmya)
+7. [Mr. Barathi Ganesh HB](https://barathiganesh-hb.github.io/)
 
 #### Program Schedule (tentative)
 
